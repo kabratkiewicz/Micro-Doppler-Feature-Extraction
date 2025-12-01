@@ -15,7 +15,7 @@ The input data used for feature extraction comes from a publicly available datas
 - **H. C. Kumawat, M. Chakraborty and A. A. B. Raj, "DIAT-RadSATNet—A Novel Lightweight DCNN Architecture for Micro-Doppler-Based Small Unmanned Aerial Vehicle (SUAV) Targets’ Detection and Classification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-11, 2022, Art no. 8504011, doi: 10.1109/TIM.2022.3188050**
 
 ## Citation
-All scripts included in this repository are free to use for academic and non-commercial research purposes. If you use this code or obtain results using these scripts for a scientific publication, we kindly ask you to cite the following article: **U. Libal, A. Wielgus, D. Podgórski and K. Abratkiewicz, "Micro-Doppler-Based UAVs Classification Using Improved Quantum Genetic SVM," 2025 33rd European Signal Processing Conference (EUSIPCO), Palermo, Italy, 2025, pp. 2347-2351.** (https://ieeexplore.ieee.org/document/11226353)
+All scripts included in this repository are free to use for academic and non-commercial research purposes. If you use this code or obtain results using these scripts for a scientific publication, we kindly ask you to cite the following article: **U. Libal, A. Wielgus, D. Podgórski and K. Abratkiewicz, "Micro-Doppler-Based UAVs Classification Using Improved Quantum Genetic SVM," 2025 33rd European Signal Processing Conference (EUSIPCO), Palermo, Italy, 2025, pp. 2347-2351** (https://ieeexplore.ieee.org/document/11226353).
 Proper acknowledgment helps support ongoing research and development of open-source tools.
 
 Please cite these references if you use the dataset in your research.  
