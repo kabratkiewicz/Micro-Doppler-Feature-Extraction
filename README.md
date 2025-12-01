@@ -20,11 +20,19 @@ Proper acknowledgment helps support ongoing research and development of open-sou
 
 Please cite these references if you use the dataset in your research.  
 @INPROCEEDINGS{11226353,
+
   author={Libal, Urszula and Wielgus, Agnieszka and Podgórski, Dawid and Abratkiewicz, Karol},
+
   booktitle={2025 33rd European Signal Processing Conference (EUSIPCO)}, 
+  
   title={Micro-Doppler-Based UAVs Classification Using Improved Quantum Genetic SVM}, 
+  
   year={2025},
+  
   volume={},
+  
   number={},
+  
   pages={2347-2351},
+  
   doi={}}
