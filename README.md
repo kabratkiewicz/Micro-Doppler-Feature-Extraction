@@ -22,17 +22,17 @@ Please cite these references if you use the dataset in your research.
 @INPROCEEDINGS{11226353,
 
   author={Libal, Urszula and Wielgus, Agnieszka and Podgórski, Dawid and Abratkiewicz, Karol},
-
-  booktitle={2025 33rd European Signal Processing Conference (EUSIPCO)}, 
   
-  title={Micro-Doppler-Based UAVs Classification Using Improved Quantum Genetic SVM}, 
+  booktitle={2025 33rd European Signal Processing Conference (EUSIPCO)},   
   
-  year={2025},
+  title={Micro-Doppler-Based UAVs Classification Using Improved Quantum Genetic SVM},   
   
-  volume={},
+  year={2025},  
   
-  number={},
+  volume={},  
   
-  pages={2347-2351},
+  number={},  
+  
+  pages={2347-2351},  
   
   doi={}}
